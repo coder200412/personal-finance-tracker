@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+
+# Build outputs
+dist/
+build/
+
+# Frontend build
+frontend/dist/
+frontend/build/
+
+# Prisma
+prisma/migrations/
+
+# OS files
+.DS_Store
+Thumbs.db
